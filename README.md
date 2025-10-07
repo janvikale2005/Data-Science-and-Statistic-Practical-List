@@ -4,19 +4,20 @@ This repository contains all the Data Analytics Laboratory experiments performed
 Each experiment is implemented using Python (Jupyter Notebook) and covers essential data analysis and machine learning concepts.
 
 📁 List of Experiments
-Sr. No.	Experiment Title
-01	Data Acquisition using Pandas
-02	Basic Python Operations in Jupyter Notebook
-03	Central Tendency of Measures
-04	Missing Value Treatment
-05	Creation of DataFrame
-06	Data Visualization
-07	Linear Regression
-08	Logistic Regression
-09	K-Nearest Neighbors (KNN)
-10	Support Vector Machine (SVM)
-11	Decision Tree
-12	Random Forest Classifier
+| Sr. No. | Experiment Title                            |
+| :-----: | :------------------------------------------ |
+|    01   | Data Acquisition using Pandas               |
+|    02   | Basic Python Operations in Jupyter Notebook |
+|    03   | Central Tendency of Measures                |
+|    04   | Missing Value Treatment                     |
+|    05   | Creation of DataFrame                       |
+|    06   | Data Visualization                          |
+|    07   | Linear Regression                           |
+|    08   | Logistic Regression                         |
+|    09   | K-Nearest Neighbors (KNN)                   |
+|    10   | Support Vector Machine (SVM)                |
+|    11   | Decision Tree                               |
+|    12   | Random Forest Classifier                    |
 
 🧠 Technologies Used
 Python
