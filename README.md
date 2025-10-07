@@ -20,19 +20,24 @@ Each experiment is implemented using Python (Jupyter Notebook) and covers essent
 |    12   | Random Forest Classifier                    |
 
 🧠 Technologies Used
-Python
-Jupyter Notebook
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
+
+-Python
+
+-Jupyter Notebook
+
+-Pandas, NumPy
+
+-Matplotlib, Seaborn
+
+-Scikit-learn
 
 📌 How to Use
 
-Clone or download this repository.
+-Clone or download this repository.
 
-Open the desired .pdf file to view experiment reports.
+-Open the desired .pdf file to view experiment reports.
 
-(Optional) Open the .ipynb versions (if available) to explore the code interactively.
+-(Optional) Open the .ipynb versions (if available) to explore the code interactively.
 
 
 👩‍💻 Created by: Janvi Kale
