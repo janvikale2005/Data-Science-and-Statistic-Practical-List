@@ -7,12 +7,12 @@ Each experiment is implemented using Python (Jupyter Notebook) and covers essent
 | Sr. No. | Experiment Title                            |
 | :-----: | :------------------------------------------ |
 |    01   | Data Acquisition using Pandas               |
-|    02   | Basic Python Operations in Jupyter Notebook |
-|    03   | Central Tendency of Measures                |
+|    02   |  Central Tendency of Measures
+|    03   |  Basics of Data frame  
 |    04   | Missing Value Treatment                     |
-|    05   | Creation of DataFrame                       |
+|    05   | Creation of arrays using numpy                     |
 |    06   | Data Visualization                          |
-|    07   | Linear Regression                           |
+|    07   |  Simple Linear Regression                           |
 |    08   | Logistic Regression                         |
 |    09   | K-Nearest Neighbors (KNN)                   |
 |    10   | Support Vector Machine (SVM)                |
